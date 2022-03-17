@@ -758,10 +758,11 @@ body > footer .copyrights {
   float: right;
 }
 
-.menu-toggle i {
-  color: #fff;
-  font-size: 21px;
-  line-height: 50px;
+.menu-toggle img {
+  position: fixed;
+  width: 25px;
+  top: 17px;
+  right: 17px;
 }
 /* /Mobile menu toggle */
 
